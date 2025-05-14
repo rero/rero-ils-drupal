@@ -1,0 +1,23 @@
+{
+  "{{ total }} results": "{{ total }} results",
+  "{{ total }} results of {{ remoteTotal }}": "{{ total }} results of {{ remoteTotal }}",
+  "authors/subjects": "authors/subjects",
+  "available": "available",
+  "documents": "documents",
+  "due until": "due until",
+  "filter": "filter",
+  "inherited": "inherited",
+  "Journal": "Journal",
+  "no result": "no result",
+  "not available": "not available",
+  "nr": "nr",
+  "p": "p",
+  "Published in": "Published in",
+  "Reason": "Reason",
+  "request": "request",
+  "requests": "requests",
+  "Series": "Series",
+  "Show more": "Show more",
+  "This patron is currently blocked.": "This patron is currently blocked.",
+  "vol": "vol"
+}
