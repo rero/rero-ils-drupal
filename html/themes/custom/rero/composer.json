@@ -1,0 +1,10 @@
+{
+	"name": "drupal/rero",
+	"type": "drupal-theme",
+	"description": "RERO ILS Theme based on boostrap.",
+	"homepage": "http://drupal.org/project/rero",
+	"license": "GPL-2.0+",
+	"require": {
+		"drupal/bootstrap": ">=5.1.3"
+	}
+}

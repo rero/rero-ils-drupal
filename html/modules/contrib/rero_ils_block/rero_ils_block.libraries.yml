@@ -1,0 +1,11 @@
+angular_app:
+  version: 1.x
+  js:
+    dist/public-search/browser/polyfills.js: {attributes: { type: module }}
+    dist/public-search/browser/main.js: {attributes: { type: module }}
+  css:
+    theme:
+      css/styles.css: { weight: -100}
+      dist/public-search/browser/styles.css: { weight: 200 }
+  dependencies:
+    - core/drupal

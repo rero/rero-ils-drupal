@@ -1,0 +1,9 @@
+name: 'RERO ILS Block'
+type: module
+description: 'Affiche une application Angular dans un bloc personnalisé.'
+core_version_requirement: ^11
+package: Custom
+dependencies:
+  - drupal:block
+libraries:
+  - rero_ils_block/angular_app
